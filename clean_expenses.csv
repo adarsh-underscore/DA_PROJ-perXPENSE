@@ -1,0 +1,197 @@
+date,category,note,amount,payment_mode,month
+2026-01-02,Other,Stationery,302.0,GPay,2026-01
+2026-01-04,Food,Dinner,590.0,UPI,2026-01
+2026-01-05,Rent,Monthly rent,9000.0,Unknown,2026-01
+2026-01-07,Entertainment,,1251.0,Card,2026-01
+2026-01-13,Bills,Electricity bill,1116.0,Card,2026-01
+2026-01-15,Other,Donation,628.0,Card,2026-01
+2026-01-16,Food,Snacks,506.0,GPay,2026-01
+2026-01-17,Food,Breakfast,653.84,UPI,2026-01
+2026-01-19,Food,Dinner,871.0,Unknown,2026-01
+2026-01-21,Travel,Metro card,678.01,Cash,2026-01
+2026-01-24,Food,Breakfast,459.0,GPay,2026-01
+2026-01-26,Shopping,Shoes,2160.55,UPI,2026-01
+2026-01-30,Food,Dinner,537.0,GPay,2026-01
+2026-01-31,Food,Groceries,318.39,GPay,2026-01
+2026-02-01,Travel,Uber,529.0,Cash,2026-02
+2026-02-02,Travel,Bus ticket,895.0,Cash,2026-02
+2026-02-05,Health,Doctor visit,1338.0,Cash,2026-02
+2026-02-05,Food,Dinner,251.0,Cash,2026-02
+2026-02-05,Rent,Monthly rent,9000.0,UPI,2026-02
+2026-02-08,Food,Breakfast,403.15,Card,2026-02
+2026-02-11,Travel,Metro card,248.0,PhonePe,2026-02
+2026-02-11,Travel,,888.0,Card,2026-02
+2026-02-13,Food,Chai,141.11,Unknown,2026-02
+2026-02-15,Travel,,505.0,UPI,2026-02
+2026-02-19,Food,Breakfast,512.0,Card,2026-02
+2026-02-21,Travel,Uber,697.0,Card,2026-02
+2026-02-21,Shopping,Shoes,1990.63,GPay,2026-02
+2026-02-25,Shopping,Headphones,1579.0,PhonePe,2026-02
+2026-02-25,Bills,Wifi,1284.4,PhonePe,2026-02
+2026-02-27,Food,Zomato order,291.0,UPI,2026-02
+2026-02-28,Shopping,Shoes,2696.0,UPI,2026-02
+2026-03-02,Bills,Wifi,554.13,PhonePe,2026-03
+2026-03-02,Shopping,,1839.84,Cash,2026-03
+2026-03-05,Rent,Monthly rent,9000.0,UPI,2026-03
+2026-03-05,Travel,Metro card,477.0,PhonePe,2026-03
+2026-03-09,Health,Gym fee,1765.0,Cash,2026-03
+2026-03-18,Shopping,Bag,3388.0,Cash,2026-03
+2026-03-19,Food,Dinner,533.0,Cash,2026-03
+2026-03-20,Rent,Monthly rent,9000.0,PhonePe,2026-03
+2026-03-21,Food,Dinner,578.98,Card,2026-03
+2026-03-21,Other,Donation,275.0,GPay,2026-03
+2026-03-21,Food,Chai,716.0,PhonePe,2026-03
+2026-03-23,Health,Vitamins,305.0,Cash,2026-03
+2026-03-26,Entertainment,,1387.36,UPI,2026-03
+2026-03-27,Bills,Wifi,2278.0,UPI,2026-03
+2026-03-29,Shopping,Headphones,1206.0,Card,2026-03
+2026-03-31,Food,Lunch,788.0,Card,2026-03
+2026-04-01,Health,Medicines,1422.0,PhonePe,2026-04
+2026-04-03,Entertainment,Movie,893.0,Cash,2026-04
+2026-04-03,Food,Chai,700.0,Unknown,2026-04
+2026-04-03,Other,Gift,464.0,GPay,2026-04
+2026-04-04,Shopping,Amazon order,1613.0,Card,2026-04
+2026-04-05,Rent,Monthly rent,9000.0,UPI,2026-04
+2026-04-08,Other,Gift,952.0,Cash,2026-04
+2026-04-10,Food,,363.0,PhonePe,2026-04
+2026-04-12,Other,Donation,861.0,GPay,2026-04
+2026-04-12,Food,Swiggy,640.12,UPI,2026-04
+2026-04-13,Entertainment,Netflix,744.0,Cash,2026-04
+2026-04-15,Bills,Water bill,923.0,Cash,2026-04
+2026-04-19,Food,Zomato order,128.0,PhonePe,2026-04
+2026-04-19,Bills,Water bill,1109.95,Cash,2026-04
+2026-04-21,Travel,Metro card,1335.0,Unknown,2026-04
+2026-04-21,Health,Gym fee,625.35,UPI,2026-04
+2026-04-21,Entertainment,Game,426.0,UPI,2026-04
+2026-04-22,Travel,Uber,407.0,PhonePe,2026-04
+2026-04-22,Travel,Auto,1427.0,Card,2026-04
+2026-04-23,Other,,439.0,GPay,2026-04
+2026-04-23,Food,Chai,468.0,GPay,2026-04
+2026-04-24,Bills,Wifi,1661.0,GPay,2026-04
+2026-04-27,Health,Medicines,925.0,GPay,2026-04
+2026-04-29,Food,,222.0,Cash,2026-04
+2026-04-30,Other,Donation,798.44,GPay,2026-04
+2026-04-30,Shopping,Bag,398.0,GPay,2026-04
+2026-05-01,Bills,Mobile recharge,717.0,UPI,2026-05
+2026-05-02,Shopping,T-shirt,358.0,Cash,2026-05
+2026-05-04,Rent,Monthly rent,9000.0,GPay,2026-05
+2026-05-05,Rent,Monthly rent,9000.0,UPI,2026-05
+2026-05-06,Entertainment,Netflix,221.0,GPay,2026-05
+2026-05-08,Other,Haircut,165.0,Unknown,2026-05
+2026-05-08,Bills,Water bill,1013.46,PhonePe,2026-05
+2026-05-08,Entertainment,Movie,205.54,UPI,2026-05
+2026-05-09,Other,Gift,868.0,PhonePe,2026-05
+2026-05-12,Other,Stationery,947.0,UPI,2026-05
+2026-05-13,Health,Vitamins,1696.0,Cash,2026-05
+2026-05-16,Food,Groceries,685.79,PhonePe,2026-05
+2026-05-16,Food,Swiggy,353.0,Card,2026-05
+2026-05-16,Food,,149.91,Card,2026-05
+2026-05-17,Health,,746.0,Cash,2026-05
+2026-05-20,Travel,Uber,739.0,GPay,2026-05
+2026-05-21,Travel,Metro card,1079.0,Card,2026-05
+2026-05-22,Food,,340.0,Cash,2026-05
+2026-05-22,Entertainment,Game,303.0,Card,2026-05
+2026-05-23,Shopping,,3286.72,PhonePe,2026-05
+2026-05-25,Bills,,1851.0,PhonePe,2026-05
+2026-05-25,Rent,Monthly rent,9000.0,Cash,2026-05
+2026-05-26,Food,,760.35,PhonePe,2026-05
+2026-05-28,Bills,Wifi,563.0,PhonePe,2026-05
+2026-05-28,Bills,,1008.79,Cash,2026-05
+2026-05-31,Travel,,663.0,GPay,2026-05
+2026-05-31,Entertainment,Game,966.0,Cash,2026-05
+2026-06-03,Bills,Water bill,1176.0,Card,2026-06
+2026-06-03,Travel,Auto,1396.0,GPay,2026-06
+2026-06-03,Shopping,,2768.0,Card,2026-06
+2026-06-04,Entertainment,Game,941.0,UPI,2026-06
+2026-06-05,Rent,Monthly rent,9000.0,UPI,2026-06
+2026-06-06,Shopping,,522.85,Cash,2026-06
+2026-06-11,Travel,Train ticket,127.3,Card,2026-06
+2026-06-13,Entertainment,Netflix,213.0,GPay,2026-06
+2026-06-15,Shopping,Amazon order,714.0,Cash,2026-06
+2026-06-17,Travel,Petrol,1323.0,Card,2026-06
+2026-06-19,Food,Breakfast,259.92,Cash,2026-06
+2026-06-24,Food,,322.0,UPI,2026-06
+2026-06-24,Food,Dinner,241.0,UPI,2026-06
+2026-06-27,Shopping,Bag,2748.0,Card,2026-06
+2026-06-28,Travel,Uber,502.0,Card,2026-06
+2026-06-29,Bills,Wifi,1119.26,UPI,2026-06
+2026-06-30,Food,Swiggy,388.0,GPay,2026-06
+2026-07-01,Food,,284.26,PhonePe,2026-07
+2026-07-05,Rent,Monthly rent,9000.0,UPI,2026-07
+2026-07-07,Food,Dinner,391.0,GPay,2026-07
+2026-07-11,Other,Gift,702.0,UPI,2026-07
+2026-07-11,Travel,Uber,791.0,Cash,2026-07
+2026-07-14,Food,,771.9,UPI,2026-07
+2026-07-15,Travel,,1005.62,GPay,2026-07
+2026-07-15,Bills,Mobile recharge,753.91,Cash,2026-07
+2026-07-16,Food,Chai,711.0,GPay,2026-07
+2026-07-21,Shopping,Headphones,2753.0,Cash,2026-07
+2026-07-22,Food,Lunch,535.38,PhonePe,2026-07
+2026-07-23,Bills,Water bill,2159.06,Card,2026-07
+2026-07-24,Travel,Metro card,170.0,Card,2026-07
+2026-07-25,Travel,Petrol,188.7,UPI,2026-07
+2026-07-26,Food,Lunch,808.0,PhonePe,2026-07
+2026-07-30,Travel,Train ticket,1008.0,Unknown,2026-07
+2026-07-30,Bills,Electricity bill,863.0,GPay,2026-07
+2026-08-04,Shopping,Headphones,3059.0,Card,2026-08
+2026-08-05,Shopping,Headphones,1723.64,PhonePe,2026-08
+2026-08-05,Rent,,9000.0,UPI,2026-08
+2026-08-05,Travel,Train ticket,1300.0,UPI,2026-08
+2026-08-07,Entertainment,Concert,867.0,GPay,2026-08
+2026-08-08,Entertainment,Netflix,659.0,PhonePe,2026-08
+2026-08-09,Food,,618.0,UPI,2026-08
+2026-08-09,Food,Chai,319.0,Cash,2026-08
+2026-08-12,Food,Swiggy,837.48,Card,2026-08
+2026-08-14,Travel,Petrol,1449.0,UPI,2026-08
+2026-08-15,Travel,Train ticket,344.0,Unknown,2026-08
+2026-08-15,Shopping,T-shirt,1882.0,UPI,2026-08
+2026-08-17,Shopping,Bag,1576.96,GPay,2026-08
+2026-08-18,Health,Vitamins,277.0,Cash,2026-08
+2026-08-21,Shopping,T-shirt,1891.74,PhonePe,2026-08
+2026-08-22,Other,Donation,876.12,PhonePe,2026-08
+2026-08-24,Rent,Monthly rent,9000.0,PhonePe,2026-08
+2026-08-24,Shopping,,3901.0,PhonePe,2026-08
+2026-08-25,Food,Swiggy,279.0,Unknown,2026-08
+2026-08-25,Bills,Electricity bill,1257.01,GPay,2026-08
+2026-08-27,Travel,,334.0,PhonePe,2026-08
+2026-08-28,Other,,184.0,PhonePe,2026-08
+2026-09-04,Food,Chai,150.9,UPI,2026-09
+2026-09-05,Rent,Monthly rent,9000.0,UPI,2026-09
+2026-09-06,Shopping,Shoes,3499.0,GPay,2026-09
+2026-09-08,Food,Dinner,823.0,GPay,2026-09
+2026-09-09,Food,Breakfast,70.0,GPay,2026-09
+2026-09-10,Food,Zomato order,100.0,Cash,2026-09
+2026-09-12,Entertainment,Game,1364.0,Card,2026-09
+2026-09-13,Bills,Wifi,1948.0,PhonePe,2026-09
+2026-09-20,Shopping,Bag,1972.0,UPI,2026-09
+2026-09-25,Travel,Bus ticket,1366.0,GPay,2026-09
+2026-09-28,Food,Dinner,746.0,Cash,2026-09
+2026-10-03,Health,Gym fee,983.26,Unknown,2026-10
+2026-10-04,Travel,Petrol,1121.0,UPI,2026-10
+2026-10-04,Shopping,Headphones,598.0,Card,2026-10
+2026-10-04,Food,,845.83,Cash,2026-10
+2026-10-04,Health,Gym fee,1410.75,GPay,2026-10
+2026-10-05,Rent,Monthly rent,9000.0,UPI,2026-10
+2026-10-05,Travel,,109.68,PhonePe,2026-10
+2026-10-06,Entertainment,Concert,1003.0,Card,2026-10
+2026-10-07,Food,,414.0,Unknown,2026-10
+2026-10-09,Food,Snacks,503.25,Unknown,2026-10
+2026-10-09,Travel,Metro card,1063.0,Card,2026-10
+2026-10-10,Food,Zomato order,220.11,UPI,2026-10
+2026-10-10,Food,Dinner,403.0,GPay,2026-10
+2026-10-12,Food,Chai,863.56,UPI,2026-10
+2026-10-13,Food,Groceries,840.43,UPI,2026-10
+2026-10-13,Food,Swiggy,332.0,UPI,2026-10
+2026-10-14,Shopping,Bag,3815.0,Unknown,2026-10
+2026-10-17,Food,Swiggy,757.05,PhonePe,2026-10
+2026-10-19,Bills,Water bill,1072.0,Unknown,2026-10
+2026-10-20,Travel,,464.93,UPI,2026-10
+2026-10-23,Food,Breakfast,695.0,Card,2026-10
+2026-10-24,Food,,322.04,GPay,2026-10
+2026-10-27,Shopping,Bag,1503.19,Card,2026-10
+2026-11-02,Rent,Monthly rent,9000.0,UPI,2026-11
+2026-11-02,Other,Donation,98.0,Cash,2026-11
+2026-11-05,Rent,,9000.0,UPI,2026-11
+2026-11-06,Food,Lunch,136.71,Card,2026-11
+2026-11-07,Other,Stationery,732.0,UPI,2026-11
+2026-11-15,Other,Donation,996.0,PhonePe,2026-11
